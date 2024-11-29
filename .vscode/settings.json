@@ -1,0 +1,9 @@
+{
+  "files.readonlyInclude": {
+    "tests/**": true
+  },
+  "files.exclude": {
+    "**/Dockerfile": true
+  },
+  "workbench.startupEditor": "none"
+}
